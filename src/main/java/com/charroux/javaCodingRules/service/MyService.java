@@ -14,7 +14,7 @@ public class MyService {
 
     List<MyData> data = new ArrayList<MyData>();
     Logger logger = LoggerFactory.getLogger(MyService.class);
-    
+
     public void addData(int i){
         data.add(new MyData(i));
     }
