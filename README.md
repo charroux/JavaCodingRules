@@ -13,3 +13,16 @@ See line 16 at https://github.com/charroux/JavaCodingRules/blob/main/src/main/ja
 ## Exception handling with HttpStatus code and message
 
 https://github.com/charroux/JavaCodingRules/blob/main/src/main/java/com/charroux/javaCodingRules/service/DataException.java
+
+## Open API documentation (Swagger)
+
+See 
+```
+implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0'
+```
+in https://github.com/charroux/JavaCodingRules/blob/main/build.gradle
+
+View the documentation:
+```
+http://localhost:8080/swagger-ui/index.html
+```
