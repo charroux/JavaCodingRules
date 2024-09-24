@@ -27,10 +27,10 @@ View the documentation:
 http://localhost:8080/swagger-ui/index.html
 ```
 
-## testing
+## Testing
 
 ### Unit testing
 
 Documentation: https://junit.org/junit5/docs/current/user-guide/#writing-tests
 
-Test class: 
+Test class: https://github.com/charroux/JavaCodingRules/blob/main/src/test/java/com/charroux/javaCodingRules/data/MyDataTest.java
