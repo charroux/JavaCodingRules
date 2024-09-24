@@ -26,3 +26,11 @@ View the documentation:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+
+## testing
+
+### Unit testing
+
+Documentation: https://junit.org/junit5/docs/current/user-guide/#writing-tests
+
+Test class: 
