@@ -34,3 +34,12 @@ http://localhost:8080/swagger-ui/index.html
 Documentation: https://junit.org/junit5/docs/current/user-guide/#writing-tests
 
 Test class: https://github.com/charroux/JavaCodingRules/blob/main/src/test/java/com/charroux/javaCodingRules/data/MyDataTest.java
+
+### Web tier testing
+
+Mockito example 1: https://github.com/charroux/mockito
+
+Mockito example 2: https://mkyong.com/spring-boot/testing-json-in-spring-boot/
+
+Test class: 
+
