@@ -41,5 +41,6 @@ Mockito example 1: https://github.com/charroux/mockito
 
 Mockito example 2: https://mkyong.com/spring-boot/testing-json-in-spring-boot/
 
-Test class: 
+Test class: https://github.com/charroux/JavaCodingRules/blob/main/src/test/java/com/charroux/javaCodingRules/web/WebServiceTest.java
+
 
